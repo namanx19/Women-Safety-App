@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\com",
+    "\\app\\src\\main\\java\\com\\namanx19",
+    "\\app\\src\\main\\java\\com\\namanx19\\wsafety",
+    "\\app\\src\\test",
+    "\\app\\src\\test\\java",
+    "\\app\\src\\test\\java\\com",
+    "\\app\\src\\test\\java\\com\\namanx19",
+    "\\app\\src\\test\\java\\com\\namanx19\\wsafety"
+  ],
+  "SelectedNode": "\\app\\src\\main\\AndroidManifest.xml",
+  "PreviewInSolutionExplorer": false
+}
